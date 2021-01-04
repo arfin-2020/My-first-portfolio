@@ -80,3 +80,22 @@
             border-image: linear-gradient(180deg, blue, cyan);
             border-image-slice: 1;
         }
+        /* footer {
+            background-color: rgb(15, 13, 13);
+            height: 100px;
+        } */
+        /* footer p {
+            text-align: center;
+            block;
+            font-size: 12px;
+            color: rgb(255, 253, 253);
+        } */
+        
+        footer p {
+            text-align: center;
+            font-size: 12px;
+            color: white;
+            background-color: black;
+            height: 60px;
+            padding-top: 35px;
+        }
